@@ -1,0 +1,141 @@
+[
+  {
+    "question":"During a kenyan premier league match between Gor-mahia and AFC leopard,57653 fans attended what is the place value of 7",
+    "answer":[
+        {"answerText":"ones","isTrue":false},
+        {"answerText":"tens","isTrue":false},
+        {"answerText":"hundreds","isTrue":false},
+        {"answerText":"thousands","isTrue":true}
+    ]
+  },
+  {
+    "question":"write 24356 in words",
+    "answer":[
+        {"answerText":"twenty four thousand three thousand and fifty six","isTrue":false},
+        {"answerText":"twenty four thousand three hundred and fifty six","isTrue":true},
+        {"answerText":"twenty four hundred three thousand and fifty six","isTrue":false},
+        {"answerText":"twenty four hundred three hundred and fifty six","isTrue":false}
+    ]
+  },
+  {
+    "question":"arrange 16081,17234,15624,14135,17025 in ascending order",
+    "answer":[
+        {"answerText":"14135,15624,16081,17025,17234","isTrue":true},
+        {"answerText":"14135,16081,15624,17025,17234","isTrue":false},
+        {"answerText":"14135,16081,17025,15624,17234","isTrue":false},
+        {"answerText":"14135,15624,16081,17234,17025","isTrue":false}
+    ]
+  },  {
+    "question":"which of the following is not divisible by 2",
+    "answer":[
+        {"answerText":2020202193034,"isTrue":false},
+        {"answerText":1234989765,"isTrue":true},
+        {"answerText":129078,"isTrue":false},
+        {"answerText":8604,"isTrue":false}
+    ]
+  },
+  {
+    "question":"which of the following is the true factors of eight",
+    "answer":[
+        {"answerText":"1,4,6,8,10","isTrue":false},
+        {"answerText":"2,4,5,6,6,7","isTrue":false},
+        {"answerText":"1,3,5,6,7,8","isTrue":false},
+        {"answerText":"1,2,4,8","isTrue":true}
+    ]
+  },
+  {
+    "question":"which othe following is the common divisor of 20,28,36",
+    "answer":[
+        {"answerText":"1,2,4","isTrue":true},
+        {"answerText":"2,4,23","isTrue":false},
+        {"answerText":"1,2,3","isTrue":false},
+        {"answerText":"1,2,6","isTrue":false}
+    ]
+  },  {
+    "question":"thirty four  5-millimeter bottles can fill a cup.Twelve cups can fill a jug.What is the capacity of the jug",
+    "answer":[
+        {"answerText":2040,"isTrue":false},
+        {"answerText":"2040millimeters","isTrue":false},
+        {"answerText":"2040millilitres","isTrue":true},
+        {"answerText":"20400 millilitres","isTrue":false}
+    ]
+  },
+  {
+    "question":"What is the highest common factor of 18 and 36",
+    "answer":[
+        {"answerText":20,"isTrue":false},
+        {"answerText":18,"isTrue":true},
+        {"answerText":36,"isTrue":false},
+        {"answerText":4,"isTrue":false}
+    ]
+  },
+  {
+    "question":"what is the greatest common divisor (GCD) 15,30 and 40",
+    "answer":[
+        {"answerText":7,"isTrue":false},
+        {"answerText":10,"isTrue":false},
+        {"answerText":5,"isTrue":true},
+        {"answerText":15,"isTrue":false}
+    ]
+  },  {
+    "question":"convert 324 kilometer to meters",
+    "answer":[
+        {"answerText":3240000,"isTrue":false},
+        {"answerText":324000,"isTrue":true},
+        {"answerText":32400,"isTrue":false},
+        {"answerText":342000,"isTrue":false}
+    ]
+  },
+  {
+    "question":"the length of a box is 3cm the width is 4cm and the height is 5m what is the volume of the box",
+    "answer":[
+        {"answerText":60,"isTrue":false},
+        {"answerText":"60cm","isTrue":false},
+        {"answerText":6000,"isTrue":false},
+        {"answerText":"6000cm3","isTrue":true}
+    ]
+  },
+  {
+    "question":"Chelimo ran a 10 kilometre marathon in 15 minutes.What was the time in seconds",
+    "answer":[
+        {"answerText":9000,"isTrue":false},
+        {"answerText":900,"isTrue":true},
+        {"answerText":1000,"isTrue":false},
+        {"answerText":100,"isTrue":false}
+    ]
+  },  {
+    "question":"add 25Minutes 15seconds to 10 minutes 21 seconds",
+    "answer":[
+        {"answerText":"35mins 36sec","isTrue":true},
+        {"answerText":"34mins 21sec","isTrue":false},
+        {"answerText":"35mins 22sec","isTrue":false},
+        {"answerText":"34mins 22sec","isTrue":false}
+    ]
+  },
+  {
+    "question":"subtract 20mins 15seconds from 30minutes 48seconds",
+    "answer":[
+        {"answerText":"9 mins 33seconds","isTrue":false},
+        {"answerText":"10mins 33seconds","isTrue":true},
+        {"answerText":"10mins 34sec","isTrue":false},
+        {"answerText":"20mins 32sec","isTrue":false}
+    ]
+  },
+  {
+    "question":"divide 10mins 39seconds by 9",
+    "answer":[
+        {"answerText":"1 minute 11 seconds","isTrue":false},
+        {"answerText":"1 minute 10seconds","isTrue":true},
+        {"answerText":"2minutes 9seconds","isTrue":false},
+        {"answerText":"1minutes 12seconds","isTrue":false}
+    ]
+  },  {
+    "question":"What name do we call lines that dont meet",
+    "answer":[
+        {"answerText":"straight","isTrue":false},
+        {"answerText":"square","isTrue":false},
+        {"answerText":"parallel","isTrue":true},
+        {"answerText":"horizontal","isTrue":false}
+    ]
+  }
+]

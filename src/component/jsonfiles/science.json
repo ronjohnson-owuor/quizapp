@@ -1,0 +1,132 @@
+[
+  {
+    "question":"_____ is a common fungal disease found in a human being",
+    "answer":[
+        {"answerText":"cholera","isTrue":false},
+        {"answerText":"typhoid","isTrue":false},
+        {"answerText":"diarrhea","isTrue":false},
+        {"answerText":"ringworms","isTrue":true}
+    ]
+  },
+  {
+    "question":"which of the following is not a respiratory disease",
+    "answer":[
+        {"answerText":"asthma","isTrue":false},
+        {"answerText":"tuberculosis","isTrue":false},
+        {"answerText":"cholera","isTrue":true}       
+    ]
+  },
+  {
+    "question":"The following can lead to intestinal infection which one is NOT",
+    "answer":[
+        {"answerText":"drinking of contaminated water","isTrue":false},
+        {"answerText":"drinking of clean and bottled water","isTrue":true},
+        {"answerText":"contact with contaminated feaces","isTrue":false}
+       
+    ]
+  },  {
+    "question":"Which type of worm is common in children",
+    "answer":[
+        {"answerText":"pinworm","isTrue":false},
+        {"answerText":"hookworm","isTrue":true},
+        {"answerText":"tapeworm","isTrue":false},
+        {"answerText":"roundworm","isTrue":false}
+    ]
+  },
+  {
+    "question":"another name for coding is",
+    "answer":[
+        {"answerText":"programming","isTrue":true},
+        {"answerText":"editing","isTrue":false},
+        {"answerText":"computing","isTrue":false},
+        {"answerText":"enigamated AI","isTrue":false}
+    ]
+  },
+  {
+    "question":"Motion block allows the sprite to ?",
+    "answer":[
+        {"answerText":"delete","isTrue":false},
+        {"answerText":"converse","isTrue":false},
+        {"answerText":"move","isTrue":true},
+        {"answerText":"none of the above","isTrue":false}
+    ]
+  },  {
+    "question":"Which of the following is a type of acid ?",
+    "answer":[
+        {"answerText":"lemon juice","isTrue":true},
+        {"answerText":"Baking soda","isTrue":false},
+        {"answerText":"ammonia","isTrue":false},
+        {"answerText":"soap","isTrue":false}
+    ]
+  },
+  {
+    "question":"A substance that turns litmus paper blue is known as ?",
+    "answer":[
+        {"answerText":"Litmus","isTrue":false},
+        {"answerText":"base","isTrue":true},
+        {"answerText":"acid-base","isTrue":false},
+        {"answerText":"acid","isTrue":false}
+    ]
+  },
+  {
+    "question":"Which/who of the following keeps human beings on the earth surface",
+    "answer":[
+        {"answerText":"glue","isTrue":false},
+        {"answerText":"gravity","isTrue":true},
+        {"answerText":"Elon musk","isTrue":false},
+        {"answerText":"mass","isTrue":false}
+    ]
+  },  {
+    "question":"which of the following has stronger gravitational pull",
+    "answer":[
+        {"answerText":"sun","isTrue":true},
+        {"answerText":"moon","isTrue":false},
+        {"answerText":"earth","isTrue":false},
+        {"answerText":"jupiter","isTrue":false}
+    ]
+  },
+  {
+    "question":"Which of the following deals primarily with gravity",
+    "answer":[
+        {"answerText":"mass","isTrue":false},
+        {"answerText":"volume","isTrue":false},
+        {"answerText":"weight","isTrue":true},
+        {"answerText":"gravitational pull","isTrue":false}
+    ]
+  },
+  {
+    "question":"which of the following is not a flowering plant",
+    "answer":[
+        {"answerText":"pawpaw","isTrue":false},
+        {"answerText":"fern","isTrue":true},
+        {"answerText":"beans","isTrue":false},
+        {"answerText":"maize","isTrue":false}
+    ]
+  },  {
+    "question":"the place in the body where two or more bones is known as",
+    "answer":[
+        {"answerText":"bone marrow","isTrue":false},
+        {"answerText":"joint","isTrue":true},
+        {"answerText":"ankle","isTrue":false},
+        {"answerText":"knee and elbow","isTrue":false}
+    ]
+  },
+  {
+    "question":"Which of the following is not an external parasite",
+    "answer":[
+        {"answerText":"tapeworm","isTrue":true},
+        {"answerText":"Tick","isTrue":false},
+        {"answerText":"lice","isTrue":false},
+        {"answerText":"ringworm","isTrue":false}
+    ]
+  },
+  {
+    "question":"which of the following consist of parts of the respiratory system",
+    "answer":[
+        {"answerText":"trachea,lungs,diaphragm","isTrue":true},
+        {"answerText":"trachea,lungs,liver","isTrue":false},
+        {"answerText":"oesophogus,ribs,lungs","isTrue":false},
+        {"answerText":"pancrease,kidney,trachea lungs","isTrue":false}
+    ]
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "question":"What is soil erosion",
+    "answer":[
+        {"answerText":"settling of erroded soil","isTrue":false},
+        {"answerText":"movement of the soil from the river","isTrue":false},
+        {"answerText":"removal of top soil","isTrue":true},
+        {"answerText":"getting back soil","isTrue":false}
+    ]
+  },
+  {
+    "question":"What is soil deposition",
+    "answer":[
+        {"answerText":"movement of the soil from the river","isTrue":false},
+        {"answerText":"settling of erroded soil on certain land sites","isTrue":true},
+        {"answerText":"getting back eroded soil for reuse in the farm","isTrue":false},
+        {"answerText":"movement of top soil","isTrue":false}
+    ]
+  },
+  {
+    "question":"which of the following is true of about organic waste pit",
+    "answer":[
+        {"answerText":"it is used for placing all kitchen waste","isTrue":false},
+        {"answerText":"crops are only grown on it once the organic waste is fully rotten","isTrue":false},
+        {"answerText":"the rotten waste are removed before growing crops on it","isTrue":false},
+        {"answerText":"it can be constructed if the kitchen waste are not there","isTrue":true}
+    ]
+  },  {
+    "question":"Awino wants to construct an organic waste pit for her parent at home what does she need to construct organic waste pit",
+    "answer":[
+        {"answerText":"plastic,stones and wood","isTrue":false},
+        {"answerText":"Leaves,milk,cupcakes","isTrue":false},
+        {"answerText":"organic waste from the kitchen eg mango,pawpaw andleaves","isTrue":true},
+        {"answerText":"clothes,skin,animal poop","isTrue":false}
+    ]
+  },
+  {
+    "question":"which of the following is not a way of conserving water",
+    "answer":[
+        {"answerText":"shadding","isTrue":true},
+        {"answerText":"mulching","isTrue":false},
+        {"answerText":"cover crop","isTrue":false},
+        {"answerText":"shading","isTrue":false}
+    ]
+  },
+  {
+    "question":"A farmer found a squrrel trapped in a rat trap ,he wanted to return them to the wild.which protective gears should he wear",
+    "answer":[
+        {"answerText":"helmet","isTrue":false},
+        {"answerText":"gloves","isTrue":true},
+        {"answerText":"gumboots","isTrue":false},
+        {"answerText":"overrals","isTrue":false}
+    ]
+  },  {
+    "question":"A farmer is complaining of birds 🐦🐦 eating maize in her farm which one of the folloing is the best advice you can give him",
+    "answer":[
+        {"answerText":"throwing stones","isTrue":false},
+        {"answerText":"releasing dogs","isTrue":false},
+        {"answerText":"installing scare crows","isTrue":true},
+        {"answerText":"shouting at the birds 🗣🗣","isTrue":false}
+    ]
+  },
+  {
+    "question":"Patrick junior has been sick of recent days what advice should you give him",
+    "answer":[
+        {"answerText":"take medicine and eat fruits often","isTrue":true},
+        {"answerText":"what youtube and take a walk","isTrue":false},
+        {"answerText":"drink cold milk from the fridge","isTrue":false},
+        {"answerText":"take a walk and drink cold mala","isTrue":false}
+    ]
+  },
+  {
+    "question":"which of the following plants are not planted using seeds",
+    "answer":[
+        {"answerText":"passion","isTrue":false},
+        {"answerText":"grapes","isTrue":true},
+        {"answerText":"passion fruit","isTrue":false},
+        {"answerText":"kiwi fruit","isTrue":false}
+    ]
+  },  {
+    "question":"which of the following is not used for planting climbing fruit plants",
+    "answer":[
+        {"answerText":"roots","isTrue":false},
+        {"answerText":"seeds","isTrue":false},
+        {"answerText":"cuttings","isTrue":false},
+        {"answerText":"Splits","isTrue":true}
+    ]
+  },
+  {
+    "question":"Joseph went to weed in kisumu and Boaz gave him the following items to go and weed which one di d elly not give him",
+    "answer":[
+        {"answerText":"gloves","isTrue":false},
+        {"answerText":"jembe","isTrue":false},
+        {"answerText":"panga","isTrue":false},
+        {"answerText":"slippers","isTrue":true}
+    ]
+  },
+  {
+    "question":"Which of the following is not done when taking care of climbing fruit plant after planting",
+    "answer":[
+        {"answerText":"watering","isTrue":false},
+        {"answerText":"weeding","isTrue":false},
+        {"answerText":"harvesting","isTrue":true},
+        {"answerText":"manure-application","isTrue":false}
+    ]
+  },  {
+    "question":"Which of the following is not true of errosion",
+    "answer":[
+        {"answerText":"spalsh - when the rain drops hit a bare ground causing the soil to be detached from the ground","isTrue":false},
+        {"answerText":"Rill- when flowing water cut through soil on the groud creating wide and longer channels","isTrue":true},
+        {"answerText":"gulley -continous flow of water in the rill making them to be larger and deeper ","isTrue":false},
+        {"answerText":"sheet - when surface run off or wind washes away thin sheets of soil away uniformly","isTrue":false}
+    ]
+  },
+  {
+    "question":"which of the following is false",
+    "answer":[
+        {"answerText":"grass is suitable for mulching","isTrue":false},
+        {"answerText":"sticks are not good for mulching","isTrue":false},
+        {"answerText":"Maize plant are good for cover crop","isTrue":true},
+        {"answerText":"beans are good for cover crop","isTrue":false}
+    ]
+  },
+  {
+    "question":"which of the following is not an agent of soil errosion",
+    "answer":[
+        {"answerText":"wind","isTrue":false},
+        {"answerText":"flying animals","isTrue":true},
+        {"answerText":"water","isTrue":false},
+        {"answerText":"animals","isTrue":false}
+    ]
+  },  {
+    "question":"Which of the following is not a requirement for photosynthesis to take place",
+    "answer":[
+        {"answerText":"water","isTrue":false},
+        {"answerText":"soil","isTrue":true},
+        {"answerText":"sunlight","isTrue":false},
+        {"answerText":"chlorophyl","isTrue":false}
+    ]
+  }
+]
